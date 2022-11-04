@@ -1,3 +1,5 @@
+package com.openbootcamp.java.basics;
+
 public abstract class Coche {
 	
 	String color;
@@ -57,7 +59,7 @@ public abstract class Coche {
 	
 	@Override
 	public String toString() {
-		return "Coche [color=" + color + ", fabricante=" + fabricante + ", peso=" + peso + ", velocidad=" + velocidad
+		return "com.openbootcamp.java.basics.Coche [color=" + color + ", fabricante=" + fabricante + ", peso=" + peso + ", velocidad=" + velocidad
 				+ "]";
 	}
 	

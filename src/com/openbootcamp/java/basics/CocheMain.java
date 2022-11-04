@@ -1,3 +1,5 @@
+package com.openbootcamp.java.basics;
+
 public class CocheMain {
 
 	public static void main(String[] args) {
@@ -17,7 +19,7 @@ public class CocheMain {
 		
 		cocheObj3.color = "Azul";
 		
-		System.out.println(cocheObj3);	
+		System.out.println(cocheObj3);
 
 	}
 

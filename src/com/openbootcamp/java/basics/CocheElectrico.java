@@ -1,3 +1,5 @@
+package com.openbootcamp.java.basics;
+
 public class CocheElectrico extends Coche {
 	
 	String motorElectrico;
@@ -34,7 +36,7 @@ public class CocheElectrico extends Coche {
 
 	@Override
 	public String toString() {
-		return "CocheElectrico [motorElectrico=" + motorElectrico + ", color=" + color + ", fabricante=" + fabricante
+		return "com.openbootcamp.java.basics.CocheElectrico [motorElectrico=" + motorElectrico + ", color=" + color + ", fabricante=" + fabricante
 				+ ", peso=" + peso + ", velocidad=" + velocidad + "]";
 	}
 
