@@ -1,7 +1,7 @@
-package com.openbootcamp.java.basics.interfaces;
+package com.openbootcamp.java.summay.interfaces;
 
-import com.openbootcamp.java.basics.Coche;
-import com.openbootcamp.java.basics.CocheHibrido;
+import com.openbootcamp.java.summay.Coche;
+import com.openbootcamp.java.summay.CocheHibrido;
 
 public class CocheServiceSportImpl implements CocheService {
     @Override

@@ -1,7 +1,7 @@
-package com.openbootcamp.java.basics.interfaces;
+package com.openbootcamp.java.summay.interfaces;
 
-import com.openbootcamp.java.basics.Coche;
-import com.openbootcamp.java.basics.CocheElectrico;
+import com.openbootcamp.java.summay.Coche;
+import com.openbootcamp.java.summay.CocheElectrico;
 
 public class CocheServiceClassicImpl implements CocheService {
     @Override

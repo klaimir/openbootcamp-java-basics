@@ -1,6 +1,6 @@
-package com.openbootcamp.java.basics.interfaces;
+package com.openbootcamp.java.summay.interfaces;
 
-import com.openbootcamp.java.basics.Coche;
+import com.openbootcamp.java.summay.Coche;
 
 public interface CocheService {
 

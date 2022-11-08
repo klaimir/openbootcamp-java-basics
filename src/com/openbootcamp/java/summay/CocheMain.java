@@ -1,4 +1,4 @@
-package com.openbootcamp.java.basics;
+package com.openbootcamp.java.summay;
 
 public class CocheMain {
 
